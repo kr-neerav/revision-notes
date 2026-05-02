@@ -5,4 +5,3 @@ Delta Lake
 Iceberg
 Production grade data pipelines
 Contanerization
-Data Contracts
